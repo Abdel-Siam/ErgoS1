@@ -1,4 +1,4 @@
-if SHIELD_ERGOS1_LEFT
+if SHIELD_ERGOS1_RIGHT
 
     config ZMK_KEYBOARD_NAME
         default "ErgoS1"
@@ -6,7 +6,7 @@ if SHIELD_ERGOS1_LEFT
     config ZMK_SPLIT_BLE_ROLE_CENTRAL
         default y
 
-endif # LEFT
+endif
 
 
 
