@@ -1,5 +1,4 @@
 if SHIELD_ERGOS1_RIGHT
-
     config ZMK_KEYBOARD_NAME
         default "ErgoS1"
 
